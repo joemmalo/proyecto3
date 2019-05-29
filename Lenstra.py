@@ -141,7 +141,7 @@ Para ejecutar el programa se deben pasar como parámetros el número que se dese
 número de veces que queremos sumar al punto P (número de iteraciónes)
 
 Ya que las curvas se generan aleatoriamente, puede que se requiera más de una ejecución para encontrar la factorización
-de un número, esto es, si se obtiene el mensaje "Argumentos invalidos, ingresa el número a factorizar y una cota de suma" se recomienda
+de un número, esto es, si se obtiene el mensaje "No se pudo factorizar n Cambia la curva e intenta de nuevo" se recomienda
 ejecutar el programa al menos 5 veces para obtener la factorización.
 
 Ejemplo de ejecución: python3 Lenstra.py 4453 20
@@ -160,7 +160,7 @@ if(len(sys.argv)== 3):
 		 "|Criptografía y Seguridad     |\n",
 		 "|Proyecto 03                  |\n",
 		 "|Guerrero Chávez Diana Lucía  |\n",
-		 "|Jovanni Emir Martínez Lorenzo|\n",
+		 "|Martínez Lorenzo Jovanni Emir|\n",
 		 "|_____________________________|\n")
 
 
